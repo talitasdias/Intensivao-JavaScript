@@ -1,7 +1,8 @@
 //import { data } from "autoprefixer";
 import { desenharProdutoCarrinhoSimples,lerLocalStorage, apagarDoLocalStorage, salvarLocalStorage } from "./src/utilidades";
+import { atualizarPrecoCarrinho } from "./src/menuCarrinho";
 //import { isDepsOptimizerEnabled } from "vite";
-
+atualizarPrecoCarrinho();
 function desenharProdutosCheckout(){
     const idsProdutoCarrinhoComQtde = lerLocalStorage("carrinho") ?? {};
     for (const idProduto in idsProdutoCarrinhoComQtde){
