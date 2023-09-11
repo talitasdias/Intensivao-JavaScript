@@ -3,7 +3,7 @@
 ![video-site](https://github.com/talitasdias/Intensivao-JavaScript/assets/123988772/7d8ab54a-4b05-44ee-b798-bc6be6036081)
 
 ## Tools used
-<p style="display:flex; gap:15">
+<p>
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
